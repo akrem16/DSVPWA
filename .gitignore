@@ -149,4 +149,5 @@ cython_debug/
 .history/
 
 
-sonar-project.properties
+# Ignore local sonar properties file (if it contains token)
+sonar-project.properties.local
